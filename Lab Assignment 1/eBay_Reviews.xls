@@ -1,0 +1,69 @@
+Reviewer Name,Review Date,Review Content
+farmer_mack,"Dec 27, 2018","Seems to be good quality. It was easy to set up once I got my head wrapped around the set-up concepts.
+
+It is installed and ready for use but in my application it has not yet been ""used.""  I want it to control an engine block heater in my truck. It is set to trigger ON when the outdoor temperature dips to 15°F or below, and trigger OFF when the outdoor temperature rises to  20°F or above.  Set point is 20° and the heat differential is 5°. So it will trigger on at PV - HD (Process value or set point less Heating Differential or lower, then back OFF at PV or above. This will prevent rapid cycling as the outdoor temperature fluctuates. The heater cord is plugged into the ""Heating"" receptacle while the ""cooling"" receptacle is unused.  Since being deployed the outdoor temperature has not 
+Read full review"
+edbeltran2000,"Nov 24, 2020","So there is no plug and play here.  All goes well until you realize that if your router does not automatically work in 2.4mhz or has the capability of doing 2.4mhz this will not work.  So if router only does 5.0 u are toast.   So now there is a bit of configuration that has to be done to get 2.4 set up for it to communicate in/out to the App.  
+Am waiting until the weekend when I have time to mess with it and hope it works out.  If not returning.  Otherwise it’s just a really expensive yet accurate thermometer.   "
+ronduck1,"Oct 02, 2018","Very reasonably priced.  Lighter than the old, other brand product I used for five years. Way less costly.  Digital instead of dial knob temp control. Easy to mount on the wall by my kegerator.  Works like a charm keeping my modified chest freezer cycling on and off to keep my beer at 35-40 degrees.  It displays current temp in the kegerator and the temp I've set it to keep.  When the temp in the kegerator climbs 3 degrees about the set temperature, it turns on the chest freezer to cool it down again.  Works great."
+tradition111,"Jan 24, 2017","Easy to setup, easy to use, easy to monitor. Great value compared to other similar equipment. Not sure why this is not more common, seems like the Johnson Controls solution is too exspensive and complicated. "
+sonjamayo,"Sep 30, 2020",works great once you can get it set....which admittedly was a bit difficult for me ....and yes I read the instructions. After following the instructions and getting to the end you have to hold the button for a few seconds. I didn't see that in the instructions and accordingly i thought the first one was malfunctioning so bought another and when it had issues I knew I had been missing something. That one step was missed...ugh!
+dsmtoys,"Aug 04, 2017","The product is made from solid materials with a large and bright readout display.  Once you read the instructions, which you have to do, and set the temperature on-off parameters the first time, it is straight-forward after that.  The temperature probe has a 5 foot lead which worked fine for my application.  I use it to control fans on a rack server entertainment system.  It exceeded my expectations on quality and function.  I would buy it again without hesitation."
+dpecchio,"Nov 14, 2017","Arrived very quickly.  The instructions were easy to follow, however, skip to the part to choose units ""C or F"" first.  Then run through the rest of the programming.  Worked so well I ordered a second for my other reef tank."
+fairdee2012,"Jan 15, 2020",Had this a little over a year. It worked fine within a first few months then it over- heated my tank  a couple times. Th he alarm worked a few times but then I couldn’t get it to turn without having to unplugged it.Now I cant get the temp set without the alarm going offeven though the water temp is below the parameters.Currently not using at all. 
+heat1895david,"Aug 10, 2017",I used this on my hot water solar panel with an electric valve. It works great. It shuts off the solar panel if it gets to cool. Keeps my swimming pool nice and warm..
+wwalters,"Jan 09, 2017","I brought this item to control my cheese cave (mini refigerator).
+it worked great. Then I needed it in an refigerator that I store apples in, the problem was the they would get to cold and freeze when the outside temperture got to cold.
+so I pluged the refig into the cold side and placed a trouble light into the heat side of the Inkbird, set the temp to 35°f set the differ of 2°F and the apples stay cold and crisp!  So I needed another for the cheesd cave.
+I highly recommend the unit."
+travnat12,"Feb 18, 2017","Its easy to use once you understand the 2 letter symbols and what they're for.  I have 2 of these now, one for beer brewing and one to replace a broken thermostat on a really old deep freezer."
+su9476,"Sep 15, 2024","I purchased one last year to install into Generac oil heating circuit. I made the mistake of putting it inside the cabinet and after a 50 + hour run this summer, I found it didn't do well from the engine heat. I'm installing this one outside the cabinet inside an electrical connection box with gasketed lid. Should last for years. Very easy to set up, calibrate, and operate. set it and forget it."
+dodgecrazyandy383,"Nov 03, 2020","I’m very happy with this controller, keeps my Sulcata tortoise house at a constant temperature. Easy to program and I also like the large temperature display."
+cchetlan,"Jan 04, 2023","I have these on my chest freezers,takes a cheap freezers and allows my temps from 0 to 3F,worth their weight in gold.I just ordered another to run a waterbed heater under my solar power LifePo4 batteries.
+
+Will set temp to 37F to 41f to protect them.OT,dont buy those without heaters,1 cold snap and you can lose them "
+dtop-123,"May 31, 2017","I got this to control the heat in my chicken coop, it worked perfectly. Easy to set and use. Nice length of sensor wire to place where you want."
+john_deere_43113,"Mar 13, 2022",Works great and is easy to program. Best feature it does not lose it settings when unplugged.
+johnat250,"Dec 22, 2021","It is hard to imagine a better bargain for process control.  I have been using PID controllers for years and for most applications, you don't need proportional control. My typical PID with SSR control costs about $300. 
+
+This is a less sophisticated controller and is a typical bang-bang controller. The control is referenced for cooling which means if you want to turn on a heater you set the heater turn off temperature in the set point and the heater turn on point in the hysteresis band. For example, I am using this for my green house where I turn on lights to keep the plants warm. The set point is 42F. At temperatures above 42, the heater is off. The hysteresis band is 2 degrees. Therefore, the lights turn on at 40F. 
+
+The quality is very good too.  For home projects like greenRead full review"
+maysdanielcarl,"Jul 18, 2017",Not Available
+justsell12me,"Jun 08, 2021",So I haven't had it long enough to give it a full 5 stars but I really enjoy the fact that it operates with a cool plug and a warm plug-in we've used  both
+cadm9082,"Dec 22, 2020","Unit worked as expected. 
+My only complaint is that there were no instructions / manual. 
+It was easy to find on the internet. "
+retiredpaul5,"Dec 22, 2020","All of these floating thermometers suffer from the same problem. They are inaccurate at the thermometer itself without any user way to adjust/calibrate them. Ones I had purchased in the past were 6 degrees off and were sent back. The one I purchased is 3 degrees too high, but I will live with it. Else the radio function seems to work well where other don't."
+m63ku,"Jun 11, 2019","I’ve had a few of these for brewing and for a saltwater fish tank. They hold the temperature reasonably well, but tend to fail suddenly. This may be due to the harsh conditions near the aquarium (lots of salt in the air), but I can’t recommend for long term or critical use."
+ma9035_blgc08,"Dec 24, 2019",Used to convert a 14cu ft upright freezer into a no freezer refrigerator. for off gridd. Highly recommended for this use. Power use is just 14 watts per hour. Easy to program. Has a compressor delay option. I can read the display from across the room. I have bins on all the shelves to keep cold air in better when opening. Dont hesitate to get one of these.
+oskars_j,"May 04, 2023","Temperature differe nce maximums are 15 degrees - I would prefer more. All other options are ok, I just wanted with wifi - confused this model with wifi model."
+karineal,"Jun 14, 2021","I can't give this 5 stars because I have yet to actually use it. My friend has the same product and it does work well, which is why I got it. It seems to be reliable so far. I hope it lasts. "
+jmkmln,"Feb 06, 2018","This is an awesome, compact device. I use it on my refridgerater/fermentation chamber for brewing"
+skijumpersc,"Jul 09, 2018",Works great for controlling my aquarium heater and I can add a cooling system too if the summer weather gets too hot
+jcoo5778,"Sep 14, 2016",I love this unit it is easy to program and use.
+parfan,"Nov 17, 2020","Thermocouple is very precise and fast. Don’t submerge the thermo probe,  it’s not meant for submerging unless waterproofed. Compressor delay function which only the 308 has is a must for a freezer or a fridge.
+Comes in a nice packaging and quality electronics. Programming is easy and straight forward. "
+plyschbjorn,"Apr 04, 2024","It's easy to use, just connect the fridge and the heating element to it and it's ready. The only drawback is that you can't program it to follow a temperature curve."
+rockhart692011,"Feb 08, 2018"," Only wish it had seen on/ off button. So you won't have to unplug it, for it not to  stay on all the time. Other than that, it works great. "
+superchop728,"Jul 14, 2020",This is a fantastic temperature controller for homebrewing it’s modular if you do have problems with it it’s easily replaced for $25 most of mine that I’ve had over the years of lasted about 2 1/2 to 3 years before they’re just unserviceable but they get constant use at my house.  Another good thing is that if you notice that they’re out of calibration by comparing them to another thermometer that you trust you can go in and adjust it there’s a calibration mode in there where you can adjust it by how many degrees it’s off I recently did this with one of mine where it was noticeably 2° off I compared it to other thermometers that were in agreement and then I just went into the menu and adjusted it by 2° so now that it’s calibrated this will be the process you do until it just gets so far ouRead full review
+moshnudelma0,"Dec 15, 2020","high quality temperature controller, high value for money!
+better than any other controller that I used, very easy and straight forward programming."
+ballboy2000,"Nov 24, 2020","Set up can take a minute, if you have problems just go to YouTube (lots of helpful videos). So far (2 weeks) and I have been very happy, works as it should and you can't beat the price.... A must have for any indoor grow operations, especially new growers!! "
+deregros_2,"Jul 20, 2017",works very good a little difficult to set up at first trying to get to the temperature you want.
+1upauto,"Oct 20, 2020","This thing is excellent and it takes all the guess work out of keeping my chickens warm, all you have to do is plug it in. It’s slicker than snake snot "
+feederfarmssales,"Mar 09, 2017",You better have good eyes to read the fine print. This unit needs more buttons. Directions unclear.
+pimpista,"Sep 30, 2020","It’s very good, The only problem is, I’m not sure about the precision of the readings, the manual doesn’t talk about that and I’m in a big doubt if the readings are real or not"
+the_s_man_2003,"Jan 31, 2018",It takes the time to read the small manual but it works well. 
+18-alpha,"Feb 25, 2022","I use this to control the temperature in my fermentation chamber. Work perfectly, easy to program and very well built. Highly recommended. "
+ctx4,"Jul 13, 2017",great to control my fermanitation room temps
+koimannm,"Jun 22, 2017",easy to use Iwatched a youtube video on it
+guiness062155,"May 28, 2017","Good product, great price-does what I need it to do. Will order again"
+smcolognes,"Aug 24, 2020",This product works perfectly. It whistle when the temperature is to high or to  low. It also heats the flex wat tape really good. 100% recommended !!
+7lvT5TKaS66@Del...,"May 09, 2017",This item is so good I have ordered 2 of them for different pieces of equipment. Usability is simple.
+gfirne9941,"Dec 18, 2018","This is just a great little unit, perfect for what I needed"
+rogehus3,"Oct 16, 2017","Everything works as advertised.
+Great unit for the price  "
+johnnadee,"Jul 05, 2021","Converted our chest freezer to a fridge very easily. Not ""better than expected"" because that's what it's supposed to do. But it does it very well so far. Instructions are a bit hard to understand, but it's mostly intuitive anyway."
+smflyer1,"Nov 11, 2021","After you figure out what the settings mean, setup is simple.  Just started using so far so good."
+keabufvxrru@del...,"Oct 24, 2017",Controls my beer fermentation precisely. I validated it with my liquid thermometer.
